@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World thid time from GIT and Git Hub");
 		
 		System.out.println("Hello World");
+		System.out.print("Hello computer");
 	}
 
 }
